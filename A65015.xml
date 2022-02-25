@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Dr. Titus Oates from two late scurrilous libels written to create a dis-belief of the Popish plot : the one entituled A narrative by E. Settle : the other a modest vindication of Titus Oates, the Salamanca doctor, from perjury &amp;c. / by A. Elliot.</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65015</idno>
+            <idno type="STC">Wing V476A</idno>
+            <idno type="STC">ESTC R34725</idno>
+            <idno type="EEBO-CITATION">14575807</idno>
+            <idno type="OCLC">ocm 14575807</idno>
+            <idno type="VID">102643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1077:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Dr. Titus Oates from two late scurrilous libels written to create a dis-belief of the Popish plot : the one entituled A narrative by E. Settle : the other a modest vindication of Titus Oates, the Salamanca doctor, from perjury &amp;c. / by A. Elliot.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Snowden for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Settle, Elkanah, 1648-1724.</term>
+               <term>Elliot, Adam, d. 1700.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102643:1" rendition="simple:additions"/>
+            <p>A VINDICATION OF Dr. Titus Oats; From Two Late SCURRILOUS LIBELS, Written to create a Diſ-belief of the POPISH PLOT.</p>
+            <p>The one Entituled a NARRATIVE By <hi>E. SETTLE.</hi>
+            </p>
+            <p>The other a Modeſt Vindication Of <hi>TITUS OATS</hi> the <hi>Salamanca</hi> Doctor from Perjury, <hi>&amp;c.</hi> By <hi>A. ELLIOT.</hi>
+            </p>
+            <p>
+               <add>y<hi rend="sup">e</hi> last of these I have already</add>
+            </p>
+            <q xml:lang="lat">
+               <l>Quod ſpurcae moriens lucerna, Ledae,</l>
+               <l>Quod Ceromata faece de Sabina,</l>
+               <l>Quod Vulpis fuga, viperae cubile,</l>
+               <l>Mallem, quam quod oles, olere Baſſa.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Snowden</hi> for the Author, 1683:</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:102643:2"/>
+            <head>A VINDICATION OF Dr. Titus Oats; FROM Two Late Scurrilous Libels, written to create a Diſ-belief of the <hi>POPISH PLOT.</hi>
+            </head>
+            <head type="sub">The one Entituled a Narrative by E. <hi>Settle,</hi>
+               <lb/>
+The other a modeſt Vindication of <hi>Titus Oats</hi> the <hi>Salamanca</hi> Doctor from Perjury, <hi>&amp;c.</hi>
+            </head>
+            <p>WHat ſhall a Man ſay, when Proteſtants, turn Hackneys to the <hi>Papiſts:</hi> They ſay is <hi>Settle</hi> is become a Motley, Popiſh Prote<g ref="char:EOLhyphen"/>ſtant Recantor—of what?—of nothing to the purpoſe—only he ſays, that out of a Peck againſt his Royal Highneſs about his ſimple <hi>Empreſs of Morocco,</hi> he took an opportunity from the <hi>Plot,</hi> to revenge himſelf upon the Duke in his Character, <hi>&amp;c.</hi> and what then? Why then he ſtruck in with the Whigs, Dedicated his <hi>Pope Joan</hi> to the Earl of <hi>Shaftsbury,</hi> and got his Living by writing Lampoons.—And did the Whigs encourage him?—No, no, they were not ſo mad:—His Bulk was ſo big, and ſo many Windows into his Soul, that they ſoon diſcern'd him. This was one, but there was yet another Motive to Recantation: For finding him<g ref="char:EOLhyphen"/>ſelf an abandon'd and forlorn Creature, and eſtrang'd from Food, thereupon he puts in among the Plot haters and no doubt made them great and large Promiſes. Thereupon they receiv'd him to mercy, and promis'd him he ſhould once more eat again as other Mortals do: But upon this condition, that he ſhould firſt ear all his words that ever he had wrote againſt his firſt.—Now can't I imagine what the Recantation of ſuch a fellow ſignifies: For the ſubmiſſions of worthleſs Perſons, and ſhammoking <hi>Libellers,</hi> of no cre<g ref="char:EOLhyphen"/>dit, (and none but ſuch will venture to write a Libel) are juſt like the throwing of durt upon a Gentlemans Cloaths, and then thinking to rince them off again with puddle water. Now I would fain know, <hi>Cui Bono,</hi> did this Fellow do this? it muſt be either for his own, or the publick advan<g ref="char:EOLhyphen"/>tage: The Publick ſcorns him; for the party which he would thruſt himſelf into, laughs at him, and the party which he has deſerted, abhors him. He is in ſuch a Dilemma of Contempt, that nothing but a Halter of his own
+<pb n="2" facs="tcp:102643:3"/>knitting can rid him of the Biforked Argument. Now ſuppoſe he ſhould hang himſelf, 'twas but a Tragedy ſtill: And certainly thoſe that are his friends can never give him better advice, than to perſwade him to ſuch an <hi>Exit,</hi> which will give him the Renown of making the beſt Tragedy that ever he made in his Life. For the Nobility of his Extraction, and his moſt Heroick Vertues and Qualities, have been already ſo well diſplay'd by o<g ref="char:EOLhyphen"/>thers, that they muſt have ſtrangely forfeited their Reaſon, who think him a Champion fit to encounter Majeſty, and the publick Juſtice of the Realm. Rather they ought to believe, that he wanted a lodging to put his head in, and was therefore reſolved to write himſelf either into <hi>Bedlam</hi> or <hi>Newgate.</hi>
+            </p>
+            <p>But <hi>Elkana</hi> ſaies he thought he had done for the beſt, and therefore ſince he now finds he has taken wrong meaſu<g ref="char:EOLhyphen"/>res, he is ready to write another Narra<g ref="char:EOLhyphen"/>tive, to the utter renouncing of what ever he has ſaid in his late Narrative againſt the Popiſh Plot, and that he is likewiſe willing to ſubſcribe to any Ignominious Title which ſhall be demanded of him for doing what he has done. This would ſeem odd indeed to hop from Recantation to Recantation: But ſince Poets and Painters are allow'd the great priviledge of <hi>Quidlibet Audendi;</hi> why ſhould Mr. <hi>E. S.</hi> be denied to attempt any pro<g ref="char:EOLhyphen"/>bable means to recover the loſt Grace of Mankind. He has found Tragedy not very ſucceſsful, let him now try his Comick Vein. He has fill'd the World with ſcorn and indignation; let the offended People now have a little Mirth for their Money.</p>
+            <p>Nay Gentlemen. They ſay the Right Worſhipful Author deſires yee to prepare your ſelves accordingly; for 'tis reported, he himſelf gives out, that he is about writing an Anſwer to his own Narrative. And will not, that, Gentlemen be mighty pleaſant? For finding this way of his of affirm<g ref="char:EOLhyphen"/>ing there is no <hi>Plot,</hi> will not anſwer expectation, he is now reſolved to affirm once more there is a <hi>Plot;</hi> projecting cunningly with himſelf, that then certainly no body will believe a <hi>Plot,</hi> becauſe he has affirmed it.</p>
+            <p>And thus is Mr. <hi>E. S.</hi> become one of thoſe <hi>Indigent Bullies</hi> rebuked by himſelf; <hi>who in all Companies run down the</hi> Popiſh Plot, <hi>Religion and Pro<g ref="char:EOLhyphen"/>perty, becauſe they have neither Conſciences nor Lands to loſe.</hi> Alas, the <hi>Plot, Religion and Property</hi> were once his Darlings, his <hi>Helena</hi>'s, his Mrs <hi>L—s,</hi> however ſuch a ſudden blindneſs came to benight his Senſes.—But his Senſes are not benighted he ſays, they burn as clear as any Candle upon the Stage; only he is reſolv'd to ſhew the World his dexterity in de<g ref="char:EOLhyphen"/>claring and undeclaring, in making a Thing a Thing, and no Thing. You ſhall ſee how he can ſhew tricks with the Plot, as a Jugler does with his Balls;—<hi>Hei Paſs</hi> to day, and the Plot's Gone—<hi>Hictius Doctius</hi> to mor<g ref="char:EOLhyphen"/>row, and it comes again.—Sometimes he is in a good humour, and then they ſay, he reſolves to write an Anſwer to his own Narrative.—By and by, his Bookſeller and He cannot agree upon the point, and then he falls a Railing and Fuming, and ſwears there was no Plot: That he never <hi>believed a tittle of what he writ himſelf</hi> in Favour of the Plot; and that he would not <hi>have hanged a Dog upon the Evidence of</hi> Oats <hi>or</hi> Bedlow. Tho his Bet<g ref="char:EOLhyphen"/>ters by ſome millions both in Honour, Juſtice and Integrity did. Now what a happy turn had it been for thoſe hang'd—drawn, and quartered Tray<g ref="char:EOLhyphen"/>tors. had <hi>E. S.</hi> been their Judge. Such a <hi>Salomon-like</hi> Act as the ſaying ſo ma<g ref="char:EOLhyphen"/>ny Innocent lives, had certainly ere this advanc'd him into <hi>Pope Jone</hi>'s Place, and he had been bleating forth his Excommunications, as well as his Scan<g ref="char:EOLhyphen"/>dals and <hi>Opprobriums</hi> againſt the Sovereign Juſtice of his Country before now. But alas, he was then feed; the wrong ſide a now, late Repentance altering the Courſe of his Nature; Enter <hi>E. S.</hi> like an Angel from the top of the Scenes, with a Recorder and a Bagpipe<g ref="char:punc">▪</g>
+            </p>
+            <lg>
+               <pb n="3" facs="tcp:102643:3"/>
+               <l>
+                  <hi>From Mercy, and from Juſtice purely ſent,</hi>
+               </l>
+               <l>
+                  <hi>T' orethrow the Proud, and aid the Innocent:</hi>
+               </l>
+               <l>While on Triumphant Seat, both Knave and Sot,</l>
+               <l>The Lofty Poet ſits to damn the <hi>Plot.</hi>
+               </l>
+            </lg>
+            <p>One would have thought he might have put his Wits to a better Uſe, by Five i'th' Hundred, and have never endangered the Principal.</p>
+            <p>He ſtands, Devil-like, upon the Pinacle of his own fond Conceit, and would have all the People fall down and Worſhip him, that is, he would have the People believe all his Mercenary Riffraff to be true, and his Poetical Raptures to excel all the Wiſdom and Sagacity of the Nation.</p>
+            <p>But what ſays Mr. <hi>E. S.</hi> to all this? Why. he cries, that he is but at his old Trade ſtill; that is, he is either at his old trade of Feigning and Fabling; or elſe he is at his beloved Vocation of making of Fire-works, and ſending about his <hi>Ignes Fatuos</hi>'s to delude and incenſe the Nation, as if nothing had been put upon 'em for theſe many years by the High <hi>Truſtees</hi> of their Lives and Liberties, but meer <hi>Impoſture</hi> and <hi>falſe Alarum.</hi> For which he deſerves to be as fairly condemned at the Seſſions at the <hi>Old Bayly,</hi> as he was formerly in the Seſſions of the Poets. But Poets, when they go beyond their Sphear, and meddle with <hi>Popiſh Plots</hi> have the ſame misfortune, and fall under the ſame Character which <hi>Heſiod</hi> gives the <hi>Cretans. To be always Liars, evil Beaſts, and meer ſlaves to their Bellies.</hi> In which words you have Mr. <hi>E. S</hi>'s motive to his deſign, all his good Qualities, and the means he has made uſe of to bring his deſign about.</p>
+            <p>Now the chief Motive for which we are beholden to Mr. <hi>E.S.</hi> for his <hi>Nar<g ref="char:EOLhyphen"/>rative</hi> was <hi>Neceſſity;</hi> who though ſhe be a ſevere Miſtreſs, and pinches to the Quick where ſhe is diſobeyed, yet does ſhe never mind how her ſlaves employ themſelves, ſo her Cries be ſtopped. For the truth of this you need go no further than the <hi>Dedication,</hi> laden with Flatery and Sycophantiſm, the moſt certain Signs in the World of a hungry Appetite.</p>
+            <p>His good Qualities are no leſs perſpicuous in proſtituting the choiceſt of his parts to <hi>Libel</hi> and <hi>Scurrility,</hi> and that of the higheſt Nature, and the moſt inordinate of Perſonal Reflexions never fit to be ſuffered, nor to be connived at. Nor indeed is it poſſible for Mr. <hi>E. S.</hi> to forſake his old practices, only he changes the Scene, and now begins to ſpend his Fire-works upon the <hi>Plot,</hi> though he could not be ſo ſilly, to think ſuch an Adventure could be proſecuted, without venting the higheſt Defamations in the World againſt all the <hi>Sacred Orders</hi> of Government in the Kingdom.</p>
+            <p>To make way for this, he firſt makes his ſubmiſſions to the <hi>Duke,</hi> and ſome ſtrange Miſter-piece of his Wit and Rhetorick to obliterate the Plot, is the only means in the World that he can find to gain acceptance of thoſe ſubmiſſi<g ref="char:EOLhyphen"/>ons, and oblivion of his Offences: Which is an inſinuation of Mr. <hi>E. S</hi>'s ſo wicked and unmannerly, as if he thought there could be no better ſatisfaction for his paſt miſcarriages, than by creating obvious concluſion of a more dan<g ref="char:EOLhyphen"/>gerous nature, to the rekindling of former Jealouſies, and renewing extinguiſh'd fears among the People, or that the way to make an Attonement for ſeveral leſſer Libels, were to compile one great one. As if there could have been no Subject ſo graceful to his R. H. or thoſe great Perſonages who now ſit at the Helm of State, then to write againſt the Plot. Certainly ſuch a Politick con<g ref="char:EOLhyphen"/>trivance was never <hi>Minerva'd</hi> out of the noddle of ſuch a heap of Fleſh and Folly before.</p>
+            <p>Well, but how muſt this Plot be confounded?—Why—by way of <hi>Irony; Abſurdity, Impoſſibility,</hi> and <hi>Incoherence.</hi> And yet if a man will make it his buſineſs to cavil at the daily Teſtimonies given at the <hi>Old Bayly</hi> upon Trials
+<pb n="4" facs="tcp:102643:4" rendition="simple:additions"/>even of Murder it ſelf, and he ſhall find ſtrange contradictions, and ſtrange incoherencies many times in the Evidence, frequently contriv'd by the Pri<g ref="char:EOLhyphen"/>ſoners Friends on purpoſe to puzzle the Judges and the Jury, by garbling the Priſoners Witneſſes with the Kings, and yet the Judges are not ſo nice to ſtand ſo ſtrictly upon circumſtances, as Mr. <hi>E. S.</hi> But finding it agreed on all hands that the perſon was ſlain, give ſentence according to the general truth, leaving the reconciliation of differing circumſtances to ſuch charitable Gentlemen as Mr. <hi>E. S.</hi> And therefore to plead Abſurdity, and Impoſſibility, and Incoherence, where matter of Fact has been prov'd and determin'd by ſeveral Trials and Convictions, was a laborious and vain piece of toyl more proper for Mr. <hi>E. S.</hi> to have preſented to Antichriſt for abaſing <hi>Pope Joan,</hi> then where he directed his intentions. For when a thing is once taken for truth, there is nothing con<g ref="char:EOLhyphen"/>tains more falſhood than a ſilly perſwaſion to the contrary. However, this is obſervable that he puts the greateſt ſtreſs of his Arguments upon his own misbelief: You are not to believe the <hi>ſuppoſition of any thing like a Maſſacre, becauſe he will not grant it, and defies the Eloquence of an Angel to convince any rational man of the probability of it. And he it certain if Popery had no other door for its entrance, the Jeſuits might as well have contrived to have brought it in by the Trojan Horſe.</hi> Now why the whole Nation ſhould take his word for their ſecurity, when an ordinary Chandler will hardly take it for a Single pot, is hard to determine. Nor is his defiance of Angels Eloquence any more to be credited: For no man is ſo ſimple to think Mr. <hi>E. S.</hi> was ever ſuch a Converſer with Angels, as to know the force of their Eloquence. Theſe are therefore meer Rodomontado's, Poetick Raptures, and preſumptions upon his acquaintance with Angels, and certainty of things, which all the World knows is not worth the tenth part of a Rats-tail, and conſequently whatever he juſti<g ref="char:EOLhyphen"/>fies upon the credit of thoſe preſumptions, is to be lookt upon to be as ridicu<g ref="char:EOLhyphen"/>lous, and as falſe and Chimerical as his idle credit it ſelf.</p>
+            <p>He will not allow that a Popiſh Succeſſour, had his Majeſty miſcarried by Popiſh contrivance, coming quietly to the Crown, could have <hi>atchiev'd any exploits to the Subverſion of the Government, and eſtabliſhing Popiſh Tyranny,</hi> Now his reaſons for this—becauſe he <hi>queſtions it</hi>—and he <hi>profeſſes he is to learn.</hi> Supernatural Mr. <hi>E. S.</hi>—The Pope and moſt Catholick King reward thee for theſe two ſublime Bully Arguments o'their ſide. Let all the Logicians ſuffer in a Maſſacre like <hi>Ramus,</hi> with all their <hi>Daraſti's</hi> and <hi>Friſeſmorum's;</hi> For Mr. <hi>E. S.</hi> has here found out a way beyond the Eloquence and Arguments of Angels to convince the world of the falſity of the Plot; but the Parliament was not of his mind, and his Majeſty was pleaſed to comply with their fears, and to condeſcend to all other expedients, except the Bill of Excluſion that could be thought of to ſecure them. But Mr. <hi>E.S</hi>'s Politicks are above all the Earth, and what he <hi>queſtions,</hi> and is to <hi>learn,</hi> muſt paſs for undeniable impoſſi<g ref="char:EOLhyphen"/>bility.</p>
+            <p>And thus, <hi>ex pede Herculem,</hi> others have been more full, and therefore to avoid Tautology, I ſhall ſay no more, but that the whole Narrative is nothing but a meet Bantring piece of deluſive Verboſity; of which, though never ſo full of falſhood, you need not wonder that Mr. <hi>E. S.</hi> is the Author. For he tells yee, he is able <hi>to write a Narrative againſt a</hi> Judas, <hi>nay againſt the Devil himſelf, that ſhall not have one ſyllable of truth in it.</hi> Nor are you to queſti<g ref="char:EOLhyphen"/>on his Abilities, ſince you may very well believe he intends to take his pat<g ref="char:EOLhyphen"/>tern from what he has done already.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
